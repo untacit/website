@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: https://www.valeur.gr/wp-content/uploads/2015/04/Business-Banner.png
   #actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
@@ -18,17 +18,17 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    alt: "flexible rules"
+    title: "Flexible Rules"
+    excerpt: "Rules are an important key of success for any business. However, they can jeopardize your..."
+    url: "/docs/flexible-rules/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    alt: "knowledge"
+    title: "Manage your Knowledge effectivelly"
+    excerpt: "Knowledge is a crucial asset of companies but it is surprinsingly neglected. Untacit bring the knowledge management to a higher level."
+    url: "/docs/k-management/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---

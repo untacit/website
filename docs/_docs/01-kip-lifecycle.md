@@ -17,7 +17,7 @@ Processes can be found in "simple scenarios" such as in our daily visit to a cof
 Some processes are perceived as streamlined procedures (Fig.1 - left) that regulate and systematize each individual participation while indicating the required flow of actions and information. However, with the rise of knowledge-based industries such as financial, health care, software development and insurance, process participants are said to be knowledge-workers(KWs) that should be supported by a flexible computational infrastructure  that do not constrain decisions at run-time. In such a modern industry, process execution depends on an intricate combination of context dependent information, emerging actions/tasks and collaboration (Fig.1 - right), where individuals take a special place as they typically use explicit but surely implicit knowledge to make decisions. 
 
 <center>
- <img src="./images/perceived.png" alt="Perceived vs Real Processes"/>
+ <img src="../images/perceived.png" alt="Perceived vs Real Processes"/>
  <b>Fig1. Perceived vs Real Processes</b>
 </center>
 
@@ -75,7 +75,7 @@ A process model can be represented with several languages such as [YAWL](), [BPM
 A BPMN model allows representing activities that are organized in a workflow. Activities represent actions that can be executed by humans, external systems or other processes. The workflow indicates the sequence in which activities should be executed. The workflow may also contain gateways to indicate conditional or parallel flows and loops. Fig. 1 represents a simple _Addition Process_  starting with an activity (_Get Numbers_) to obtain the input numbers. Then the process validates those numbers (_Validate Numbers_) and moves on to calculate the sum (_Calculate Sum_) if the numbers are valid; if not valid, the process flow goes back to get new input numbers.
 
 <center>
- <img src="./images/sum.png" alt="Simple Addition Process"/>
+ <img src="../images/sum.png" alt="Simple Addition Process"/>
  Fig1. Simple Addition Process
 </center>
 
@@ -90,7 +90,7 @@ Another important difference between BPMN and CMMN is how they represent sequenc
 Fig2 also represents the activity _Validate Numbers_ decorated with a dashed line to indicate such activity is discretionary. Different from the BPMN version of the _Addition Process_ that uses a gateway to represent an optional flow, the CMMN model leaves the decision to apply or not apply validation to the case worker. As a result, when the CMMN version of the _Addition Process_ process starts the _Get Numbers_  activity will be available to execute but _Validate Numbers_ and _Calculate Sum_ will become available only when _Get Numbers_ is completed. Given _Validate Numbers_ is discretionary, the process may execute _Calculate Sum_ without waiting for the validation action.
 
 <center>
- <img src="./images/sum_flex.png" alt="Simple Addition Process in CMMN"/>
+ <img src="../images/sum_flex.png" alt="Simple Addition Process in CMMN"/>
  Fig2. Simple Addition Process in CMMN
 </center>
 
@@ -113,7 +113,7 @@ In order to dissect the concepts related to knowledge intensive process one must
 ## KIP Stages
 
 <center>
- <img src="./images/kip-lifecycle.png" alt="KIP Lifecycle"/>
+ <img src="../images/kip-lifecycle.png" alt="KIP Lifecycle"/>
  Fig3. KIP Lifecycle
 </center>
 
@@ -185,14 +185,14 @@ Each of these adaptations can result in one or multiple process transformations.
 This transformation represents when the concepts from the Conceptual View are transformed in processes. This means this process will now have a starting point, a flow, indications of responsibilities for groups of process activities, i.e., will have incorporated the structured elements that belong to the Conceptual View. The figure below illustrate the Conceptual view as a blue cloud with some concepts. All 4 processes (P1, P2, P3 and P4) are reified from the concepts in the cloud. These are definitions coming from and based on extensive research and best-practices on software development. The concepts in the cloud are typically represented in natural language or non-formal representations, which demands an expert to transform these concepts in processes (reification). 
 
 <center>
- <img src="./images/ReificationExample11.png" alt="1st Reification Example"/>
+ <img src="../images/ReificationExample11.png" alt="1st Reification Example"/>
  Fig. Illustration of Reification procedure concepts turning into processes.
 </center>
 
 Let's try to make things clear with an example, represented in BPMN. Let's suppose a project manager is defining tasks for a project, and she/he gathered some concepts with the company's VP after a long meeting. The new reified process can be something like: 
 
 <center>
- <img src="./images/ReificationExample2.png" alt="2nd Reification Example"/>
+ <img src="../images/ReificationExample2.png" alt="2nd Reification Example"/>
  Fig. Illustration of reified process.
 </center>
 
@@ -213,14 +213,14 @@ A simple example using a common notation (BPMN) is shown below.
 After posting all parcels in the post office service, some prices may vary. The original process does not consider that measures and prices might have to be updated. A tailored process to include this unforeseen activity is illustrated below. One process activity was added to the original process.
 
 <center>
- <img src="./images/TailoringExample.png" alt="1st Tailoring Example using BPMN"/>
+ <img src="../images/TailoringExample.png" alt="1st Tailoring Example using BPMN"/>
  Fig. 1st Tailoring example using BPMN.
 </center>
 
 Another (simpler) example is when an online store starts accepting debit as payment method for centain cases (for example, if a client purchase is over $100). Then, the debit card option has to be added to the process. This can be done using Tailoring. The blue elements below are the elements that were added during this process tailoring. 
 
 <center>
- <img src="./images/TailoringExample2.png" alt="2nd Tailoring Example using BPMN"/>
+ <img src="../images/TailoringExample2.png" alt="2nd Tailoring Example using BPMN"/>
  Fig. 2nd Tailoring example using BPMN.
 </center>
 
@@ -237,7 +237,7 @@ Instantiation occurs when processes become executable chunks of work and a worki
 Let's suppose a person works in a lingerie store, which every year showcases products and the most beautiful models of the world takes the catwalk wearing super expensive bras (we're not citing any names here!!). The cashier follows the process below when each customer buys fragrances, purses or any other product(s). 
 
 <center>
- <img src="./images/InstantiationExample.png" alt="Instantiation Example using BPMN"/>
+ <img src="../images/InstantiationExample.png" alt="Instantiation Example using BPMN"/>
  Fig. Instantiation example using BPMN.
 </center>
 
@@ -250,7 +250,7 @@ The execution of the Work plan is called enactment. Through enactment it is poss
 Every June (the foundation month of the brand), the main store located in NYC gives away free samples of new fragrances. Although not a formalized process activity, it must be something consistent every June.  
 
 <center>
- <img src="./images/EnactmentExample.png" alt="Enactment Example using BPMN"/>
+ <img src="../images/EnactmentExample.png" alt="Enactment Example using BPMN"/>
  Fig. Enactment example using BPMN.
 </center>
 
