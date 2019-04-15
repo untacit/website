@@ -1,12 +1,17 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Why Untacit?"
+    url: /pages/why/
+  - title: "Features"
+    url: /pages/features/
+  - title: "From the Users"
+    url: /pages/fromusers/
+  - title: "About"
+    url: /pages/about/
+
+
+concepts:
+  - title: Getting Started
+    children:
+      - title: "About"
+        url: /pages/about/
