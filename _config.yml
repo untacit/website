@@ -11,10 +11,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Untacit Project"
+title                    : "Welcome to the"
 title_separator          : "-"
-name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
-description              : &description "Exploring the complexity of Modern Collaborative and Goal Oriented Processes."
+name                     : &name "Untacit Team" # &name is a YAML anchor which can be *referenced later
+# description              : &description "Exploring the complexity of Modern Collaborative and Goal Oriented Processes."
+description              : &description "Accomplishing your goals is now easier than ever."
 url                      : https://untacit.github.io/website/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "untacit/website"
@@ -80,7 +81,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : &twitter "untacit"
 facebook:
   username               : &facebook "untacit"
   app_id                 :
@@ -92,7 +93,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
+    - "https://twitter.com/untacit"
     - "https://facebook.com/untacit"
 
 # Analytics
@@ -126,13 +127,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://twitter.com/untacit"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
+      url: "https://github.com/untacit"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://instagram.com/untacit"
 
 
 # Reading Files

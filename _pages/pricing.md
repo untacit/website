@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: /pages/about/
+title: "Pricing?"
+permalink: /pages/pricing/
 date: 2016-02-24T03:02:20+00:00
 #toc: true
 #toc_label: "Table of Contents"
@@ -8,5 +8,5 @@ date: 2016-02-24T03:02:20+00:00
 #toc_sticky: true
 ---
 
-## Meet the team
-
+sidebar:
+  nav: "docs"

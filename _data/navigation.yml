@@ -6,8 +6,8 @@ main:
     url: /pages/features/
   - title: "From the Users"
     url: /pages/fromusers/
-  - title: "About"
-    url: /pages/about/
+  #- title: "About"
+  #  url: /pages/about/
 
 
 concepts:
@@ -15,3 +15,30 @@ concepts:
     children:
       - title: "About"
         url: /pages/about/
+
+
+
+sidemenu:
+  - title: Quick Menu
+    children:
+      - title: "Why Untacit"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
+
+  - title: Quick Menu 2 
+    children:
+      - title: "Configuration"
+        url: /docs/configuration/
+      - title: "Navigation"
+        url: /docs/navigation/
+      - title: "UI Text"
+        url: /docs/ui-text/
+      - title: "Authors"
+        url: /docs/authors/
+      - title: "Layouts"
+        url: /docs/layouts/
