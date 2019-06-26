@@ -25,12 +25,14 @@ sidemenu:
         url: /pages/why/
       - title: "Features"
         url: /pages/features/
-      - title: "Research"
+      - title: "Proposal"
         url: /pages/research/
       - title: "Tool"
         url: /pages/tool/
+      - title: "Users"
+        url: /pages/fromusers/
 
-  - title: Let's talk business 
+  - title: The next meny title 
     children:
       - title: "Pricing"
         url: /pages/pricing/

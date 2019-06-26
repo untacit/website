@@ -1,13 +1,13 @@
 ---
-title: "Research"
+title: "Proposal"
 permalink: /pages/research/
 date: 2016-02-24T03:02:20+00:00
 sidebar:
   nav: "sidemenu"
-#toc: true
-#toc_label: "Table of Contents"
-#toc_icon: "cog"
-#toc_sticky: true
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
 ---
 
 ## Tame Process Overload
@@ -28,3 +28,12 @@ Moreover, the UnTacit Graphical Interface allows expert "Process Engineers" to u
 {: .text-justify}
 Users find themselves lost when executing hidden workflows. It is hard to remember if they are close to achieving a goal; if the system is waiting for information; or if the process is stuck at the organization's end. To manage your ongoing work, the UnTacit graphical interface helps you keep track of each executed tasks.
 
+## Research
+
+For more on the supporting rationale of Untacit, visit: 
+
+  <li>
+    <a href="https://toacy.github.io/kip-pages/" itemprop="kip-pages" rel="kip-pages1">
+      <i class="fas fa-fw" aria-hidden="true"></i> Untacit Research 
+    </a>
+  </li>
