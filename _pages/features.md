@@ -6,6 +6,8 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
+sidebar:
+  nav: "sidemenu"
 ---
 
 Simple process workflow navigation and recommender: Untacit is a way to simplify tasks that might not be as simple such as planning a trip or filing your taxes.
@@ -20,14 +22,4 @@ Simple process workflow navigation and recommender: Untacit is a way to simplify
 
 <iframe width="640" height="360" src="https://www.powtoon.com/embed/buWo5F0DcSO/" frameborder="0"></iframe>
 
-## Process Navigation 
 
-Go through your activities in a very simple way.
-
-## Process Transparency
-
-See what are the steps needed, include your own information: it's simple and you're in control.
-
-## Process Hub
-
-A centralized hub for all your processes. 

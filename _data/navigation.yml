@@ -22,23 +22,17 @@ sidemenu:
   - title: Quick Menu
     children:
       - title: "Why Untacit"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+        url: /pages/why/
+      - title: "Features"
+        url: /pages/features/
+      - title: "Research"
+        url: /pages/research/
+      - title: "Tool"
+        url: /pages/tool/
 
-  - title: Quick Menu 2 
+  - title: Let's talk business 
     children:
+      - title: "Pricing"
+        url: /pages/pricing/
       - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+        url: /pages/configuration/

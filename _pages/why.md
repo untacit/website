@@ -13,23 +13,37 @@ sidebar:
 
 We have awesome solutions to help you navigate through tedious work.
 
-## Tame Process Overload
+## What if... 
 
-End-users typically interact with several software systems to achieve goals such as Filing Income Tax, Planning Vacations or Writing Reports. Such interactions occur on a form-by-form basis, where the end-users input information and the software systems provide valuable feedback. This two-way interaction typically hides elaborate workflows that gather end-users, tasks, documents and software systems, and are used to control, document and standardize the interactions between parties such as end-users, businesses, governments and other organizations. For example, an end-user Planning a Vacation must provide the origin, the destination, the dates and the number of travellers to find a suitable flight. Moreover, if this end-user wants to buy the tickets, he/she must also provide credit card information. 
+1. User has lots of goals (Plan Trip, File Tax Return, Renew Driver's License,etc.)
 
-Considering regular end-users interact with several software systems (web-based, mobile, etc.) daily to achieve several goals, such users must "remember" how to navigate on each and every hidden workflow. In this <b>Process Overload</b> scenario, the may end-user face several issues: What is the required information to achieve my goal? How many interactions with the system do I need? 
+2. Each goal leads to a website with its own bespoke "workflow" and interface
 
-To solve this problem, UnTacit graphical interface makes processes transparent, allowing end-users to understand the whole interaction upfront. {: .text-justify}
+3. To achieve a goal, the User must "discover" each website workflow. Sometimes it is intuitive, but frequently it is "opaque" and  the user must seek assistance (forums, manuals, how-tos, help)
 
-## Leverage on knowledge
-{: .text-justify}
-A community of end-users interacting with software systems amasses valuable information on how goals can be achieved. The UnTacit back-end systems use intelligent Machine Learning algorithms to organize all this information and help end-users navigating through processes, thus avoiding possible unwanted situations. The help comes in the form of ChatBots that analyzes the process's context and recommends the most successful action towards achieving a goal. 
+4. It is hard for the User to gather the info required to achieve such goal (What info?, How long? How many steps?, What happens if I get stuck along the way?)
 
-Moreover, the UnTacit Graphical Interface allows expert "Process Engineers" to upload workflows that can better describe an end-user context.
+5. It is hard for the User to stop and resume the "workflow" at any time.
 
-## Track and Manage Work
-{: .text-justify}
-Users find themselves lost when executing hidden workflows. It is hard to remember if they are close to achieving a goal; if the system is waiting for information; or if the process is stuck at the organization's end. To manage your ongoing work, the UnTacit graphical interface helps you keep track of each executed tasks.{: .text-justify}
+6. It is hard for the User to remember what happened the last time he/she achieved such goal.
+
+7. It is hard to obtain valuable information on how others "executed the workflow"(Name, Description, Author, Number of Executions, Number of Activities, Mean Execution Time, Information List, Number of Problems,etc)
+
+What-if... 
+
+The User could search/browse a list of "workflow definitions" to seek valuable information about the workflow?
+
+## Process Navigation 
+
+Go through your activities in a very simple way.
+
+## Process Transparency
+
+See what are the steps needed, include your own information: it's simple and you're in control.
+
+## Process Hub
+
+A centralized hub for all your processes. 
 
 ## Meet the team
 
