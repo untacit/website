@@ -12,7 +12,7 @@ End-users typically interact with several software systems to achieve goals such
 
 Considering regular end-users interact with several software systems (web-based, mobile, etc.) daily to achieve several goals, such users must "remember" how to navigate on each and every hidden workflow. In this <b>Process Overload</b> scenario, the may end-user face several issues: What is the required information to achieve my goal? How many interactions with the system do I need? .....
 
-To solve this problem, UnTacit graphical interface make processes transparent, allowing end-users to understand the whole interaction upfront. 
+To solve this problem, UnTacit graphical interface make processes transparent, allowing end-users to understand the whole interaction upfront. XXXXXZX
 
 <b>ADD IMAGE</b>
 
