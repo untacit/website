@@ -29,6 +29,8 @@ sidemenu:
         url: /pages/research/
       - title: "Tool"
         url: /pages/tool/
+      - title: "Vision"
+        url: /pages/vision/
       - title: "Users"
         url: /pages/fromusers/
 
